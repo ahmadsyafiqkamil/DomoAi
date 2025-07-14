@@ -1,4 +1,7 @@
-# Daftar Gambar di Folder images
+Demo Prototype
+
+demo prototip
+[Demo Prototype](https://www.figma.com/proto/8XWxbKWWOYlkSudpsp53E5/hackaton?page-id=166%3A14&node-id=169-3359&viewport=59%2C417%2C0.2&t=WCjiE3qF5HanIIMW-1)
 
 ![Dashboard](prototipe_images/Dashboard.png)
 ![Fitur 1.1](prototipe_images/Fitur%201.1.png)
@@ -20,5 +23,3 @@
 ![Registrasi 1](prototipe_images/Registrasi%201.png)
 ![Registrasi 2](prototipe_images/Registrasi%202.png)
 
-demo prototip
-[Demo Prototype](https://www.figma.com/proto/8XWxbKWWOYlkSudpsp53E5/hackaton?page-id=166%3A14&node-id=169-3359&viewport=59%2C417%2C0.2&t=WCjiE3qF5HanIIMW-1)
